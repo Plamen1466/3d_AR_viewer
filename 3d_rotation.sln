@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d_rotation.CSharp", "3d_rotation.CSharp.csproj", "{5D54D83C-9771-3208-6174-34AF07AB4CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d_rotation.CSharp.Editor", "3d_rotation.CSharp.Editor.csproj", "{DFC6E74B-9E47-1E14-4CA5-33805DF8ACD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D54D83C-9771-3208-6174-34AF07AB4CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D54D83C-9771-3208-6174-34AF07AB4CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D54D83C-9771-3208-6174-34AF07AB4CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D54D83C-9771-3208-6174-34AF07AB4CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC6E74B-9E47-1E14-4CA5-33805DF8ACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC6E74B-9E47-1E14-4CA5-33805DF8ACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC6E74B-9E47-1E14-4CA5-33805DF8ACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC6E74B-9E47-1E14-4CA5-33805DF8ACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

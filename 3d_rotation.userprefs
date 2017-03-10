@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="3d_rotation.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SamplesResources\VirtualButtons\Scripts\VirtualButtonEventHandler.cs">
+    <Files>
+      <File FileName="Assets\SamplesResources\VirtualButtons\Scripts\VirtualButtonEventHandler.cs" Line="174" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
